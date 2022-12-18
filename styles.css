@@ -1,2 +1,16 @@
-
 /* Your CSS Code here. */
+input,
+select {
+  display: block;
+  margin-bottom: 1%;
+}
+#i1,
+#i2 {
+  display: inline;
+}
+#i3 {
+  display: block;
+}
+span {
+  color: red;
+}
